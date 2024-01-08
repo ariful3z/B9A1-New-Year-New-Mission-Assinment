@@ -209,3 +209,90 @@ background: #F00;
 border: none;
  }
 
+
+ .footer{
+    /* text-align: center; */
+    border-radius: 16px;
+background:#070211;;
+width: 1200px;
+height: 400px;
+text-align: center;
+position: absolute;
+top: 625%;
+left: 65%;
+transform: translate(-65%, -65%);
+ }
+ .Gardens{
+    display: flex;
+    justify-content: space-between;
+
+ }
+ .Street{
+    margin-top: 100px;
+    margin-left: 80px;
+    color: #FFF;
+font-size: 16px;
+font-weight: 500;
+ }
+ .Roosevelt{
+    margin-top: 100px;
+    margin-right:70px ;
+    color: #FFF;
+font-size: 16px;
+font-weight: 500;
+ }
+ .facebook{
+    width: 80px;
+    display: flex;
+   margin-left: auto;
+   margin-right: auto;
+   gap: 20px;
+ }
+ .Rights{
+    display: flex;
+    justify-content: space-between;
+   
+ }
+ .Reserved{
+    color: #FFF;
+
+    font-size: 16px;
+
+    font-weight: 500;
+
+ }
+ .Instagram{
+    color: #FFF;
+    
+    font-size: 16px;
+
+    font-weight: 500;
+
+
+    font-size: 16px;
+border: none;
+    
+ }
+ .Reserved{
+    margin-top: 85px;
+    margin-left: 70px;
+ }
+ .Instagram{
+    margin-top: 85px;
+    margin-right: 40px;
+ }
+ .line{
+    
+ }
+ .Twitter{
+    display: flex;
+    justify-content: center;
+    background-color:gray;
+    height: 1px;
+    
+
+ }
+ .Linkedin{
+    background-color:gray;
+    height: 1px;
+ }
