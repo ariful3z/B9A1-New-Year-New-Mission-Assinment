@@ -73,6 +73,9 @@ background-color: #070211;
 }
 .section{
     display: flex;
+    /* background-image: url('../images/Group\ 70.png');
+    background-repeat: no-repeat;
+    background-position: bottom right; */
 }
 .vector{
     width: 900px;
@@ -100,4 +103,15 @@ background-color: #070211;
 }
 .welcome button{
      /* text-align: left; */
+}
+.group{
+
+width: 218px;
+height: 243px;
+    position: absolute;
+    top: 283%;
+    left: 76%;
+    transform: translate(-65%, -65%);
+    
+
 }
