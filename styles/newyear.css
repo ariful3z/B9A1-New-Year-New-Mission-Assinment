@@ -71,4 +71,33 @@ background-color: #070211;
 .Happy-new-year:hover{
     transform: scale(1.12)
 }
+.section{
+    display: flex;
+}
+.vector{
+    width: 900px;
+    padding: 120px 160px ;
+}
+.welcome{
+    position: absolute;
+    top: 280%;
+    left: 55%;
+    transform: translate(-70%, -70%);
 
+}
+.party{
+    color: #FFF;
+    font-size: 35px;
+    font-weight: 900;
+    margin-top: 90px;
+
+}
+.Dolor{
+    color: rgba(255, 255, 255, 0.80);
+    font-size: 15px;
+    font-weight: 400;
+    
+}
+.welcome button{
+     /* text-align: left; */
+}
